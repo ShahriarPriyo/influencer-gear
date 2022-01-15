@@ -227,6 +227,9 @@ padding: 2% 6%;
 .elements p{
     font-size: 14px;
 }
+.bottom-icons{
+    margin-bottom: 15px;
+}
 
 
 /* media query */
